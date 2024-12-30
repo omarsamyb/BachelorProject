@@ -1,0 +1,1 @@
+C:\Users\OWSA\AppData\Local\Programs\Python\Python37-32\python.exe CyKit\Py3\CyKIT.py 127.0.0.1 54123 6 generic+noheader+pywinusb

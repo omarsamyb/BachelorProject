@@ -1,0 +1,20 @@
+## conda
+numpy
+matplotlib
+scipy
+pyedflib
+tensorflow-gpu
+keras
+pillow
+opencv
+jupyter
+pandas
+jupyterthemes
+conda install --no-deps joblib
+conda install --no-deps scikit-learn
+## pip
+msgpack-rpc-python
+    --msgpack-python
+    --tornado 4.5.3 (downgraded from 6.0.4)
+airsim
+keras-tqdm
